@@ -1,0 +1,10 @@
+C:\3 КУРС\БД\Программа\DB_App\bin\Debug\DB_App.exe.config
+C:\3 КУРС\БД\Программа\DB_App\bin\Debug\DB_App.exe
+C:\3 КУРС\БД\Программа\DB_App\bin\Debug\DB_App.pdb
+C:\3 КУРС\БД\Программа\DB_App\obj\Debug\DB_App.csproj.AssemblyReference.cache
+C:\3 КУРС\БД\Программа\DB_App\obj\Debug\DB_App.Form1.resources
+C:\3 КУРС\БД\Программа\DB_App\obj\Debug\DB_App.Properties.Resources.resources
+C:\3 КУРС\БД\Программа\DB_App\obj\Debug\DB_App.csproj.GenerateResource.cache
+C:\3 КУРС\БД\Программа\DB_App\obj\Debug\DB_App.csproj.CoreCompileInputs.cache
+C:\3 КУРС\БД\Программа\DB_App\obj\Debug\DB_App.exe
+C:\3 КУРС\БД\Программа\DB_App\obj\Debug\DB_App.pdb
